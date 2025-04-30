@@ -1,9 +1,9 @@
-# Introdução a Programação Orientada a Objetos
-- Exercícios de Python da disciplina de POO UFSC
-- Módulo 1: Turtle
-- Módulo 2: Sequential
-- Módulo 3: Selection
-- Módulo 4: Repetition
-- Módulo 5: Strings
-- Módulo 6: Lists, Tuples, Sets, Dictionary
-- Módulo 7: Matrix
+# Object-Oriented Programming Introduction
+- Python exercises for the OOP Introduction subject for the Information Systems course under UFSC. 
+- Module 1: Turtle
+- Module 2: Sequential
+- Module 3: Selection
+- Module 4: Repetition
+- Module 5: Strings
+- Module 6: Lists, Tuples, Sets, Dictionary
+- Module 7: Matrix
